@@ -11,6 +11,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 * Álgebra lineal (matricial)
 * Álgebra abstracta (grupos y anillos)
 * Matemática discreta (conteo, ecuaciones en recurrencias, relaciones de orden y de equivalencia).
+* Cálculo (límites, derivadas e integrales).
 * Programación en Python
 
 
