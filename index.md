@@ -48,14 +48,21 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Referencias adicionales:
 
-* [I. Niven y N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
+* [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
+
 * [T. Apostol (2010). *Introduction to Analytic Number Theory*.](http://library.lol/main/B1D5FE65979AB622AA235F7539439EEB){:target="_blank"}
-* [K. Rosen (2011). Elementary Number Theory and Its Applications.](){:target="_blank"}
-* [W. Stein (2009). Elementary Number Theory.](){:target="_blank"}
-* [J. Stillwell (2003). Elements of Number Theory. Springer.](){:target="_blank"}
-* [K. Ireland y M. Rosen (1990). A Classical Introduction to Modern Number Theory. Springer.](){:target="_blank"}
-* [Brochero, Moreira, Saldanha, Tengan (2012). Teoria dos Números. IMPA.](){:target="_blank"}
-* [Coutinho (2010). Números Inteiros e Criptografía RSA. IMPA.](){:target="_blank"}
+
+* [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
+
+* [W. Stein (2009). *Elementary Number Theory*.](){:target="_blank"}
+
+* [J. Stillwell (2003). *Elements of Number Theory*.](){:target="_blank"}
+ 
+* [K. Ireland, M. Rosen (1990). *A Classical Introduction to Modern Number Theory*.](){:target="_blank"}
+
+* [F. Brochero, C. Moreira, N. Saldanha, E. Tengan (2012). *Teoria dos Números*. IMPA.](){:target="_blank"}
+
+* [Coutinho (2010). *Números Inteiros e Criptografía RSA*. IMPA.](){:target="_blank"}
 
 
 ---
