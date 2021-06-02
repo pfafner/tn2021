@@ -48,14 +48,14 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Referencias adicionales:
 
-* I. Niven y N. Zuckerman (1991). An Introduction to the Theory of Numbers.
-* T. Apostol (2010). Introduction to Analytic Number Theory. Springer.
-* K. Rosen (2011). Elementary Number Theory and Its Applications. 
-* W. Stein (2009). Elementary Number Theory.
-* J. Stillwell (2003). Elements of Number Theory. Springer.
-* K. Ireland y M. Rosen (1990). A Classical Introduction to Modern Number Theory. Springer.
-* Brochero, Moreira, Saldanha, Tengan (2012). Teoria dos Números. IMPA.
-* Coutinho (2010). Números Inteiros e Criptografía RSA. IMPA.
+* [I. Niven y N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
+* [T. Apostol (2010). Introduction to Analytic Number Theory. Springer.](){:target="_blank"}
+* [K. Rosen (2011). Elementary Number Theory and Its Applications.](){:target="_blank"}
+* [W. Stein (2009). Elementary Number Theory.](){:target="_blank"}
+* [J. Stillwell (2003). Elements of Number Theory. Springer.](){:target="_blank"}
+* [K. Ireland y M. Rosen (1990). A Classical Introduction to Modern Number Theory. Springer.](){:target="_blank"}
+* [Brochero, Moreira, Saldanha, Tengan (2012). Teoria dos Números. IMPA.](){:target="_blank"}
+* [Coutinho (2010). Números Inteiros e Criptografía RSA. IMPA.](){:target="_blank"}
 
 
 ---
