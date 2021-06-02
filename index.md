@@ -58,11 +58,18 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 * [J. Stillwell (2003). *Elements of Number Theory*.](http://library.lol/main/8D97DC6854CF341E9A2F945731DF985F){:target="_blank"}
  
-* [K. Ireland, M. Rosen (1990). *A Classical Introduction to Modern Number Theory*.](){:target="_blank"}
+* [K. Ireland, M. Rosen (1990). *A Classical Introduction to Modern Number Theory*.](http://library.lol/main/46587E85B377B9D01D2BDA4FDA9FCA4D){:target="_blank"}
 
 * [F. Brochero, C. Moreira, N. Saldanha, E. Tengan (2012). *Teoria dos Números*. IMPA.](){:target="_blank"}
 
 * [Coutinho (2010). *Números Inteiros e Criptografía RSA*. IMPA.](){:target="_blank"}
 
+### Solución de problemas (tipo olimpíadas):
+
+* [T. Andreescu, D. Andrica (2009). *Number Theory: Structures, Examples and Problems*.](http://library.lol/main/6C6479B9A92D0FF27F7C9B69487EEF60){:target="_blank"}
+
+* [T. Andreescu, D. Andrica, Z. Feng (2007). *104 Number Theory Problems*.](http://library.lol/main/C7E726B5AD1839E2779E72AF80BD4D67){:target="_blank"}
+
+* [A. Engel (2001). *Problem-Solving Strategies*.](http://library.lol/main/E8D5738D9D309A7E130BEF688ED92A3F){:target="_blank"}
 
 ---
