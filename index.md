@@ -12,12 +12,12 @@ El curso cuenta con una parte práctica, en la que el estudiante implementará e
 # Prerrequisitos
 
 Se recomienda que los estudiantes antes del curso estén habituados con los temas:
-* Fundamentos (Inducción matemática, teoría básica de conjuntos, propiedades de funciones).
-* Álgebra lineal (matricial)
-* Álgebra abstracta (grupos y anillos)
+* Fundamentos (Inducción matemática, teoría de conjuntos, propiedades de funciones).
+* Álgebra lineal (cálculo matricial y propiedades).
+* Álgebra abstracta (conocimientos generales de grupos y anillos).
 * Matemática discreta (conteo, recurrencias, relaciones de orden y de equivalencia).
 * Cálculo (límites, derivadas e integrales).
-* Programación en Python
+* Programación en Python.
 
 
 # Programa del curso
