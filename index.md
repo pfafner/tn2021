@@ -2,7 +2,14 @@
 
 # Teoría de Números 2021
 
-Descripción.
+Este es un curso introductorio a la teoría de números. El curso hace una revisión de los temas clásicos en teoría básica de números, aunque introducidos desde una perspectiva y  enfoque algebraico, haciendo uso de propiedades de estructuras como grupos y anillos. Se hace una revisión de los tópicos y conceptos tradicionales en teoría de números, introduciendo algunos métodos y aplicaciones recientes. El curso pretende que el estudiante adquiera un conocimiento básico sobre el tema, de modo que pueda continuar profundizando esta área a través de sus estudios de postgrado o estudio personal. El curso se apoya en una colección de herramientas algebraicas y analíticas y herramientas de computación, y trata de dar un enfoque aplicado al curso.
+
+El curso inicia con una introducción a las propiedades de los números enteros, y los fundamentos de la aritmética. Sigue con el estudio de aritmética modular (congruencias), así como la solución de ecuaciones lineales y sistemas de ecuaciones lineales enteras, y se introducen los teoremas principales del curso: teorema de Fermat, teorema de Euler, teorema Chino del residuo. Este tema continua con el estudio de residuos cuadráticos, así como la teoría de raíces primitivas y la Ley de reciprocidad cuadrática. Al final de este bloque se integran algunas aplicaciones de la teoría de números en computación, principalmente métodos para determinación de primos y factoración de enteros, así como métodos de criptografía y cifrado de la información, y métodos computacionales para multiplicación de números y poliomios. Seguidamente, se estudian temas en fracciones continuas y teoría de la aproximación; así como algunas ecuaciones diofantinas básicas, como el teorema de las sumas de cuadrados y se hace una revisión de métodos algebraicos como los enteros gaussianos y enteros de Eisenstein. Al final del curso se hace una introducción a la teoría analítica de números, donde se estudian las principales funciones aritméticas, la distribución de números primos y teoremas de estimación. Se hace una introducción al teorema de los números primos y otros métodos analíticos.
+    
+El curso cuenta con una parte práctica, en la que el estudiante implementará en código computacional algunos de los algoritmos estudiados. Parte fundamental del curso es utilizar las herramientas aprendidas en proyectos donde se utilizan herramientas del curso en el ámbito computacional.
+
+**Importante!!** Se requiere que el estudiante tenga un conocimiento de diversas áreas de matemática, como álgebra lineal, álgebra abstracta, y que domine al menos un lenguaje de programación.
+
 
 # Prerrequisitos
 
