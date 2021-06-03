@@ -8,8 +8,6 @@ El curso inicia con una introducción a las propiedades de los números enteros,
     
 El curso cuenta con una parte práctica, en la que el estudiante implementará en código computacional algunos de los algoritmos estudiados. Parte fundamental del curso es utilizar las herramientas aprendidas en proyectos donde se utilizan herramientas del curso en el ámbito computacional.
 
-**Importante!!** Se requiere que el estudiante tenga un conocimiento de diversas áreas de matemática, como álgebra lineal, álgebra abstracta, y que domine al menos un lenguaje de programación.
-
 
 # Prerrequisitos
 
