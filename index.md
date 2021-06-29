@@ -45,7 +45,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Textos:
 
-* [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
+* [T. Burton (2011). *Elementary Number Theory*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
 
 * [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
 
