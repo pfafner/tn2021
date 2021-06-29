@@ -45,11 +45,11 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Textos:
 
-* Por definir.
-
-### Referencias adicionales:
+* [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
 
 * [I. Niven, N. Zuckerman (1991). *An Introduction to the Theory of Numbers*.](http://library.lol/main/283DAE3A05E051CBC0177ECACAB1C875){:target="_blank"}
+
+### Referencias adicionales:
 
 * [T. Apostol (2010). *Introduction to Analytic Number Theory*.](http://library.lol/main/B1D5FE65979AB622AA235F7539439EEB){:target="_blank"}
 
