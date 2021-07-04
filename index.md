@@ -29,7 +29,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Office Hours
 <div id='id-office'/>
 
-* Por definir.
+* Sábados.
 
 
 # Material del curso
