@@ -37,7 +37,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 06.07.2021   | Introducción                                                                   | 
+  01       | 08.07.2021   | Introducción                                                                   | 
   
 
 # Referencias
@@ -54,7 +54,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 ### Referencias adicionales:
 
-* [G. Jones y J. Jones (1998). *Elementary Number Theory*.](http://library.lol/main/8D8D1CDA930FFD6693C2D046E5F27331){:target="_blank"}
+* [G. Jones, J. M. Jones (1998). *Elementary Number Theory*.](http://library.lol/main/8D8D1CDA930FFD6693C2D046E5F27331){:target="_blank"}
 
 * [K. Rosen (2011). *Elementary Number Theory and Its Applications*.](http://library.lol/main/4F17982CE43B7BB0AE7543C1946A22DD){:target="_blank"}
 
@@ -70,6 +70,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 
 ### Referencias avanzadas:
+
+* [G. H. Hardy, E. M. Wright (1968). *Introduction to the Theory of Numbers*.](http://library.lol/main/F41AFCB0B44DD6DF662C40F9A302E6B4){:target="_blank"}
 
 * [K. Chandrasekharan (1969). *Introduction to Analytic Number Theory*.](http://library.lol/main/0FA1AAF3AABDFC62EB756484BF620A34){:target="_blank"}
 
