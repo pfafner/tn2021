@@ -33,9 +33,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
-  -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 08.07.2021   | Introducción                                                                   | 
+  **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
+  -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
+  01       | 08.07.2021   | Introducción                                                                  | 
   
 
 # Referencias
