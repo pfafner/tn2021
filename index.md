@@ -58,7 +58,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 * [W. Stein (2009). *Elementary Number Theory: Primes, Congruences and Secrets*.](http://library.lol/main/2ED90C02E93FFBA7BE648FBC0C72BD11){:target="_blank"}
 
-* [W. Stillewll (2003). *Elements of Number Theory*.](http://library.lol/main/8D97DC6854CF341E9A2F945731DF985F){:target="_blank"}
+* [W. Stillwell (2003). *Elements of Number Theory*.](http://library.lol/main/8D97DC6854CF341E9A2F945731DF985F){:target="_blank"}
 
 * [I. N. Vinogradov (1954). *Elements of Number Theory*.](http://library.lol/main/141CE1567A52C047D7662412676465B7){:target="_blank"}
 
