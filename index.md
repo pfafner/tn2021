@@ -35,7 +35,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
-  01       | 08.07.2021   | Introducción                                                                  | 
+  01       | 08.07.2021   | Introducción. <br/> [Aula01](aulas/Aula01.pdf){:target="_blank"}  |  
+  02       | 13.07.2021   |                                                                               |
   
 
 # Referencias
