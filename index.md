@@ -36,6 +36,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
   01       | 08.07.2021   | Introducción. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Leer secciones 1.1, 1.2 y 2.1 Burton.
+  L1       | 09.07.2021   |                                                                               | [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: viernes 16 de julio.
   02       | 13.07.2021   |                                                                               |
   
 
