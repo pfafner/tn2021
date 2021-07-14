@@ -35,10 +35,10 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
   **No.**  | **Fecha**    | **Tópicos**                                                                   | **Recursos**
   -------- | ------------ | ----------------------------------------------------------------------------- |  -------------------------------------
-  01       | 08.07.2021   | Introducción. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Leer secciones 1.1, 1.2 y 2.1 Burton.
+  01       | 08.07.2021   | Introducción. Historia de la aritmética. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"}  | Secciones 1.1, 1.2 y 2.1 Burton.
   L1       | 09.07.2021   |                                                                               | [Lista de ejercicios 1](listas/Lista01.pdf){:target="_blank"} <br/> **Fecha de entrega: Viernes 16 de julio.**
-  02       | 13.07.2021   | Divisibilidad. MDC y MMC. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
-  03       | 15.07.2021   |                                                                               |
+  02       | 13.07.2021   | Divisibilidad. MDC y MMC. Algoritmo de la División. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Secciones 2.2 y 2.3 Burton.
+  03       | 15.07.2021   |                                                                               | 
   
 
 # Referencias
