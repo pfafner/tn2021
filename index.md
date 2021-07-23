@@ -40,6 +40,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   02       | 13.07.2021   | Divisibilidad. MDC y MMC. Algoritmo de la División. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Secciones 2.2 y 2.3 Burton.
   03       | 15.07.2021   | Lema de Bézout. Algoritmo de Euclides. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Secciones 2.3 y 2.4 Burton.
   04       | 20.07.2021   | La ecuación $xa + yb = c$. Números primos. Teorema Fundamental de la Aritmética. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Secciones 2.5 y 3.1 Burton.
+  05       | 22.07.2021   | Propiedades de números primos. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Secciones 3.2 y 3.3 Burton.
   .        |              |                                                                               | 
   
 
