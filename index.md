@@ -43,7 +43,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   05       | 22.07.2021   | Propiedades de números primos. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Secciones 3.2 y 3.3 Burton.
   L2       | 23.07.2021   |                                                                               | [Lista de ejercicios 2](listas/Lista02.pdf){:target="_blank"} <br/> **Fecha de entrega: Sábado 31 de julio.**
   06       | 27.07.2021   | Ternas pitagóricas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"}       | Secciones 1.6 y 1.7 Stillwell.
-  07       | 03.08.2021   | Congruencias. Representación en bases. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Sección 4.1 Burton.  
+  07       | 03.08.2021   | Congruencias. Representación en bases. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Sección 4.1 Burton.
+  08       | 05.08.2021   | Potenciación binaria. Criterios de divisibilidad. <br/>                       | Sección 4.2 Burton.  
   .        |              |                                                                               | 
   
 
