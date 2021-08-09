@@ -45,6 +45,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   06       | 27.07.2021   | Ternas pitagóricas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"}       | Secciones 1.6 y 1.7 Stillwell.
   07       | 03.08.2021   | Congruencias. Representación en bases. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Sección 4.1 Burton.
   08       | 05.08.2021   | Potenciación binaria. Criterios de divisibilidad. <br/>                       | Sección 4.2 Burton.  
+  09       | 10.08.2021   | El anillo de enteros Z/nZ. <br/>                                              | 
   .        |              |                                                                               | 
   
 
