@@ -46,7 +46,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   07       | 03.08.2021   | Congruencias. Representación en bases. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Sección 4.1 Burton.
   08       | 05.08.2021   | Potenciación binaria. Criterios de divisibilidad. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Sección 4.2 Burton.  
   09       | 10.08.2021   | El anillo de enteros Z/nZ. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Sección 4.3 Burton.
-  10       | 12.08.2021   | La función de Euler y el Teorema de Fermat. <br/>                             | 
+  10       | 12.08.2021   | La función de Euler y el Teorema de Fermat. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
   .        |              |                                                                               | 
   
 
