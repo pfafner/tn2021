@@ -48,7 +48,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   09       | 10.08.2021   | El anillo de enteros Z/nZ. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Sección 4.3 Burton.
   10       | 12.08.2021   | La función de Euler y el Teorema de Fermat. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
   L3       | 13.08.2021   |                                                                               | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: Domingo 22 de agosto.**
-  11       | 17.08.2021   | Orden y raíces primitivas. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Sección 6.6 Burton
+  11       | 17.08.2021   | Orden y raíces primitivas. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Secciones 8.1, 8.2 y 8.3 Burton.
   .        |              |                                                                               | 
   
 
