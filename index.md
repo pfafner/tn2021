@@ -45,8 +45,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   06       | 27.07.2021   | Ternas pitagóricas. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"}       | Secciones 1.6 y 1.7 Stillwell.
   07       | 03.08.2021   | Congruencias. Representación en bases. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Sección 4.1 Burton.
   08       | 05.08.2021   | Potenciación binaria. Criterios de divisibilidad. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Sección 4.2 Burton.  
-  09       | 10.08.2021   | El anillo de enteros Z/nZ. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Sección 4.3 Burton.
-  10       | 12.08.2021   | La función de Euler y el Teorema de Fermat. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | 
+  09       | 10.08.2021   | El anillo de enteros Z/nZ. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Secciones 4.3 y 5.3 Burton.
+  10       | 12.08.2021   | La función de Euler y el Teorema de Fermat. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Secciones 5.2, 7.2 y 7.3 Burton.
   L3       | 13.08.2021   |                                                                               | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: Domingo 22 de agosto.**
   11       | 17.08.2021   | Orden y raíces primitivas. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Secciones 8.1, 8.2 y 8.3 Burton.
   .        |              |                                                                               | 
