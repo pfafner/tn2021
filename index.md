@@ -51,6 +51,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   11       | 17.08.2021   | Orden y raíces primitivas. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Secciones 8.1, 8.2 y 8.3 Burton.
   12       | 19.08.2021   | Solución de congruencias lineales.                                            | Secciones ?? Burton.
   13       | 24.08.2021   | Teorema Chino del Resto. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"}  | 
+  14       | 31.08.2021   | Congruencias cuadráticas. Ley de reciprocidad cuadrática. <br/>               | 
   .        |              |                                                                               | 
   
 
