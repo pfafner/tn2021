@@ -52,6 +52,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   12       | 19.08.2021   | Solución de congruencias lineales.                                            | Sección 4.4 Burton.
   13       | 24.08.2021   | Teorema Chino del Resto. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"}  | Sección 4.4 Burton.
   14       | 31.08.2021   | Ley de reciprocidad cuadrática. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Secciones 9.1, 9,2 y 9.3 Burton.
+  L4       | 01.09.2021   |                                                                               | 
   .        |              |                                                                               | 
   
 
