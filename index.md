@@ -49,9 +49,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   10       | 12.08.2021   | La función de Euler y el Teorema de Fermat. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Secciones 5.2, 7.2 y 7.3 Burton.
   L3       | 13.08.2021   |                                                                               | [Lista de ejercicios 3](listas/Lista03.pdf){:target="_blank"} <br/> **Fecha de entrega: Domingo 22 de agosto.**
   11       | 17.08.2021   | Orden y raíces primitivas. <br/> [Aula 11](aulas/Aula11.pdf){:target="_blank"} | Secciones 8.1, 8.2 y 8.3 Burton.
-  12       | 19.08.2021   | Solución de congruencias lineales.                                            | Secciones ?? Burton.
-  13       | 24.08.2021   | Teorema Chino del Resto. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"}  | 
-  14       | 31.08.2021   | Ley de reciprocidad cuadrática. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
+  12       | 19.08.2021   | Solución de congruencias lineales.                                            | Sección 4.4 Burton.
+  13       | 24.08.2021   | Teorema Chino del Resto. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"}  | Sección 4.4 Burton.
+  14       | 31.08.2021   | Ley de reciprocidad cuadrática. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Secciones 9.1, 9,2 y 9.3 Burton.
   .        |              |                                                                               | 
   
 
