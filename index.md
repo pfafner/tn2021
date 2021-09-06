@@ -54,8 +54,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   14       | 31.08.2021   | Ley de reciprocidad cuadrática. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Secciones 9.1, 9,2 y 9.3 Burton.
   L4       | 01.09.2021   |                                                                               | [Lista de ejercicios 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: Sábado 11 de septiembre.**
   15       | 02.09.2021   | Solución de congruencias cuadráticas. Levantamiento de potencias.             | Sección 9.3 Burton.
-  16       | 02.09.2021   | Solución de congruencias cuadráticas. Levantamiento de potencias.             | Sección 9.3 Burton.
-  17       | 02.09.2021   | Solución de congruencias cuadráticas. Levantamiento de potencias.             | Sección 9.3 Burton.
+  16       | 07.09.2021   | Solución de congruencias superiores.                                          |
+  17       | 09.09.2021   | Aplicaciones.                                                                 | 
   .        |              |                                                                               | 
   
 
