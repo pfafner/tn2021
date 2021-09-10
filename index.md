@@ -55,7 +55,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   L4       | 01.09.2021   |                                                                               | [Lista de ejercicios 4](listas/Lista04.pdf){:target="_blank"} <br/> **Fecha de entrega: Sábado 11 de septiembre.**
   15       | 02.09.2021   | Solución de congruencias cuadráticas. Levantamiento de potencias.             | Sección 9.3 Burton.
   16       | 07.09.2021   | Congruencias superiores. Lema de Hensel. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Sección 2.6 Niven y Zuckerman.
-  17       | 09.09.2021   | Aplicaciones.                                                                 | 
+  17       | 09.09.2021   | Método rho de Pollard.                                                        | Sección 2.4 Niven y Zuckerman.
   .        |              |                                                                               | 
   
 
