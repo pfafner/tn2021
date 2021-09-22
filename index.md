@@ -58,6 +58,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   17       | 09.09.2021   | Método rho de Pollard.                                                        | Sección 2.4 Niven y Zuckerman.
   L5       | 13.09.2021   |                                                                               | [Lista de ejercicios 5](listas/Lista05.pdf){:target="_blank"} <br/> **Fecha de entrega: Martes 28 de septiembre.**
   18       |              |                                                                               | 
+  19       | 21.09.2021   | Fracciones continuas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
   .        |              |                                                                               | 
   
 
