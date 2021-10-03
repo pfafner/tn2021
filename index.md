@@ -60,6 +60,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   18       | 21.09.2021   | Fracciones continuas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}     | [Continued Fractions (Waldschmidt)](https://webusers.imj-prg.fr/~michel.waldschmidt/articles/pdf/ContinuedFractionsVI.pdf){:target="_blank"} <br/> [Continued Fractions (Waldschmidt-Sanna)](lectures/Waldschmidt-Sanna.pdf){:target="_blank"} 
   19       | 23.09.2021   | Fracciones continuas. Teorema de Hurwitz-Markov. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Secciones 15.2 y 15.3 Burton.
   20       | 28.09.2021   | Fracciones de Farey. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}      | Sección 15.4 Burton. 
+  21       |              |                                                                               | 
   .        |              |                                                                               | 
   
 
