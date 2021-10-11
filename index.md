@@ -66,6 +66,11 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   .        |              |                                                                               | 
   
 
+# Temas Seminarios
+
+A continuación encontrarán una lista de sugerencias de tópicos para sus seminarios. [Temas-seminario](proyectos/Temas-seminario.pdf){:target="_blank"}
+
+
 # Referencias
 <div id='id-ref'/>
 
