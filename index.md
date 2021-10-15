@@ -68,8 +68,14 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 # Temas Seminarios
 
-A continuación encontrarán una lista de sugerencias de tópicos para sus seminarios. [Temas-seminario](proyectos/Temas-seminario.pdf){:target="_blank"}
+A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](proyectos/Temas-seminario.pdf){:target="_blank"}
 
+Temas ya elegidos:
+
+**No.**  | **Fecha**    | **Tópicos**                                                                    
+-------- | ------------ | ------------------------------------------------------------------------------ 
+ 1       |              | Aplicaciones en Criptografía
+ 2       |              | 
 
 # Referencias
 <div id='id-ref'/>
