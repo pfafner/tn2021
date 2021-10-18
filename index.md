@@ -62,7 +62,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20       | 28.09.2021   | Fracciones de Farey. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}      | Sección 15.4 Burton. 
   21       | 05.10.2021   | Ecuaciones Diofantinas. Ecuación Pitagórica. Ecuación de Legendre. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
   22       | 07.10.2021   | Ecuaciones Diofantinas II. Ecuación de Pell. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
-  23       |              |                                                                               | 
+  23       | 14.10.2021   | Sumas de Cuadrados. [Aula 23](aulas/Aula23.pdf){:target="_blank"}             | 
   .        |              |                                                                               | 
   
 
