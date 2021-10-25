@@ -62,9 +62,9 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   20       | 28.09.2021   | Fracciones de Farey. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}      | Sección 15.4 Burton. 
   21       | 05.10.2021   | Ecuaciones Diofantinas. Ecuación Pitagórica. Ecuación de Legendre. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
   22       | 07.10.2021   | Ecuaciones Diofantinas II. Ecuación de Pell. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
-  23       | 14.10.2021   | Sumas de Cuadrados. [Aula 23](aulas/Aula23.pdf){:target="_blank"}             | 
-  24       | 19.10.2021   | La Ecuación de Fermat. Caso n=4. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Ribemboim.  
-  25       | 21.10.2021   | Sumas de Cuadrados. [Aula 23](aulas/Aula23.pdf){:target="_blank"}             | 
+  23       | 14.10.2021   | Sumas de Cuadrados. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"}       | 
+  24       | 19.10.2021   | La Ecuación de Fermat. Caso n=4. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
+  25       | 21.10.2021   | La Ecuación de Fermat. Caso n=3. <br/> Enteros algebraicos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Niven y Zuckerman, Sección 9.10. 
   .        |              |                                                                               | 
   
 
