@@ -107,6 +107,8 @@ Temas ya elegidos:
 
 * [S. C. Coutinho (2010). *Números Inteiros e Criptografía RSA*. IMPA.](){:target="_blank"}
 
+* [P. Ribenboim (1999). *Fermat's Last Theorem for Amateurs*. Springer.](http://library.lol/main/30FE5DA3F187B37B980A0C2EA048E563){:target="_blank"}
+
 
 ### Referencias avanzadas:
 
