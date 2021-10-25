@@ -63,6 +63,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   21       | 05.10.2021   | Ecuaciones Diofantinas. Ecuación Pitagórica. Ecuación de Legendre. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
   22       | 07.10.2021   | Ecuaciones Diofantinas II. Ecuación de Pell. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
   23       | 14.10.2021   | Sumas de Cuadrados. [Aula 23](aulas/Aula23.pdf){:target="_blank"}             | 
+  24       | 19.10.2021   | La Ecuación de Fermat. Caso n=4. [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Ribemboim.  
+  25       | 21.10.2021   | Sumas de Cuadrados. [Aula 23](aulas/Aula23.pdf){:target="_blank"}             | 
   .        |              |                                                                               | 
   
 
