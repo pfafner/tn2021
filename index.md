@@ -76,8 +76,9 @@ Temas ya elegidos:
 
 **No.**  | **Fecha**    | **Tópicos**                                                                    
 -------- | ------------ | ------------------------------------------------------------------------------ 
- 1       |              | Aplicaciones en Criptografía
- 2       |              | 
+ 1       |              | Aplicaciones en Criptografía.
+ 2       |              | Establecimiento de la TN como disciplina, siglo XVIII: Golbach, Lagrange, Legendre.
+ 
 
 # Referencias
 <div id='id-ref'/>
