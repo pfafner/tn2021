@@ -78,6 +78,7 @@ Temas ya elegidos:
 -------- | ------------ | ------------------------------------------------------------------------------ 
  1       |              | Aplicaciones en Criptografía.
  2       |              | Establecimiento de la TN como disciplina, siglo XVIII: Golbach, Lagrange, Legendre.
+ 3       |              | Curvas elípticas.
  
 
 # Referencias
