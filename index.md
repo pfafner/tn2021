@@ -60,11 +60,13 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   18       | 21.09.2021   | Fracciones continuas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"}     | [Continued Fractions (Waldschmidt)](https://webusers.imj-prg.fr/~michel.waldschmidt/articles/pdf/ContinuedFractionsVI.pdf){:target="_blank"} <br/> [Continued Fractions (Waldschmidt-Sanna)](lectures/Waldschmidt-Sanna.pdf){:target="_blank"} 
   19       | 23.09.2021   | Fracciones continuas. Teorema de Hurwitz-Markov. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Secciones 15.2 y 15.3 Burton.
   20       | 28.09.2021   | Fracciones de Farey. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"}      | Sección 15.4 Burton. 
-  21       | 05.10.2021   | Ecuaciones Diofantinas. Ecuación Pitagórica. Ecuación de Legendre. [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
-  22       | 07.10.2021   | Ecuaciones Diofantinas II. Ecuación de Pell. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
-  23       | 14.10.2021   | Sumas de Cuadrados. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"}       | 
-  24       | 19.10.2021   | La Ecuación de Fermat. Caso n=4. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
+  21       | 05.10.2021   | Ecuaciones Diofantinas. Ecuación Pitagórica. Ecuación de Legendre. [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  
+  22       | 07.10.2021   | Ecuaciones Diofantinas II. Ecuación de Pell. [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Cap. 5 Stillwell.
+  23       | 14.10.2021   | Sumas de Cuadrados. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"}       | Cap. 8 Stillwell.
+  24       | 19.10.2021   | La Ecuación de Fermat. Caso n=4. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Cap. 6 y 7 Stillwell.
   25       | 21.10.2021   | La Ecuación de Fermat. Caso n=3. <br/> Enteros algebraicos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Niven y Zuckerman, Sección 9.10. 
+  26       | 27.10.2021   | Enteros de Gauss y de Eisenstein. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Cap. I. Ribemboim. 
+  27       | 28.10.2021   | La Ecuación de Fermat. Caso n=4. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Sección 2.1 Apostol.
   .        |              |                                                                               | 
   
 
