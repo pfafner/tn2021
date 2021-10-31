@@ -81,6 +81,7 @@ Temas ya elegidos:
  1       |              | Aplicaciones en Criptografía.
  2       |              | Establecimiento de la TN como disciplina, siglo XVIII: Goldbach, Lagrange, Legendre.
  3       |              | Aritmética de Curvas Elípticas.
+ 4       |              | Teeoría algebraica de números aplicada a ecuaciones diofantinas.
  
 
 # Referencias
