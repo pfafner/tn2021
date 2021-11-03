@@ -66,7 +66,8 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   24       | 19.10.2021   | La Ecuación de Fermat. Caso n=4. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Cap. 6 y 7 Stillwell.
   25       | 21.10.2021   | La Ecuación de Fermat. Caso n=3. <br/> Enteros algebraicos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Niven y Zuckerman, Sección 9.10. 
   26       | 27.10.2021   | Enteros de Gauss y de Eisenstein. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Cap. I. Ribemboim. 
-  27       | 28.10.2021   | La Ecuación de Fermat. Caso n=4. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Sección 2.1 Apostol.
+  27       | 28.10.2021   | Funciones Aritméticas. Producto de Dirichlet. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Secciones 2.1 a 2.5 Apostol.
+  28       | 02.11.2021   | Fórmulas de Inversión. La Fórmula de Inversión de Möbius. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Sección 2.2 Apostol.
   .        |              |                                                                               | 
   
 
