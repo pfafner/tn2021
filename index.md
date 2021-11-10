@@ -85,6 +85,7 @@ Temas ya elegidos:
  3       |              | Aritmética de Curvas Elípticas.
  4       |              | Teoría algebraica de números aplicada a ecuaciones diofantinas.
  5       |              | TN en el mundo antiguo: de los friefos a la Edad Media.
+ 6       |              | Números p-ádicos.
  
 
 # Referencias
