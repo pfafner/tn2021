@@ -68,7 +68,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   26       | 27.10.2021   | Enteros de Gauss y de Eisenstein. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Cap. I. Ribemboim. 
   27       | 28.10.2021   | Funciones Aritméticas. Producto de Dirichlet. <br/> [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Secciones 2.1 a 2.5 Apostol.
   28       | 02.11.2021   | Fórmulas de Inversión. La Fórmula de Inversión de Möbius. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Secciones 2.6 a 2.11 Apostol.
-  29       |              |                                                                               |
+  29       | 09.11.2021   | Promedios de funciones aritméticas.                                           |
   .        |              |                                                                               | 
   
 
