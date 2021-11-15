@@ -70,6 +70,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   28       | 02.11.2021   | Fórmulas de Inversión. La Fórmula de Inversión de Möbius. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Secciones 2.6 a 2.11 Apostol.
   29       | 09.11.2021   | Promedios de funciones aritméticas I. Fórmula de sumas de Euler.              |
   30       | 11.11.2021   | Promedios de funciones aritméticas II. Fórmula Asintótica de Dirichlet.       |
+  31       |              |                                                                               | 
   .        |              |                                                                               | 
   
 
