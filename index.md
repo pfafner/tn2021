@@ -81,15 +81,16 @@ A continuación se listan algunos temas sugeridos para presentación de seminari
 
 Temas ya elegidos:
 
-**No.**  | **Fecha**    | **Tópicos**                                                                    
--------- | ------------ | ------------------------------------------------------------------------------ 
- 1       |              | Aplicaciones en Criptografía.
- 2       |              | Establecimiento de la TN como disciplina, siglo XVIII: Goldbach, Lagrange, Legendre.
- 3       |              | Aritmética de Curvas Elípticas.
- 4       |              | Teoría algebraica de números aplicada a ecuaciones diofantinas.
- 5       |              | TN en el mundo antiguo: de los friefos a la Edad Media.
- 6       |              | Números p-ádicos.
- 7       |              | El problema número 10 de Hilbert.
+**No.**  | **Fecha**    | **Conferencista**   |  **Tópico**                                                                    
+-------- | ------------ | --------------------| ---------------------------------------------------------- 
+ 1       | 23.11.2021   | Leonel Contreras    | El problema número 10 de Hilbert.
+ 2       | 23.11.2021   | Juan Lorthiois      | Aplicaciones en Criptografía.
+ 3       | 23.11.2021   | Karina Valladares   | TN en el mundo antiguo: de los griegos a la Edad Media.
+ 4       | 23.11.2021   | José López          | Aritmética de Curvas Elípticas.
+ 5       | 25.11.2021   | Estuardo Menéndez   | Números p-ádicos.
+ 6       | 25.11.2021   | José Lucha          | La Criba de Sundaram, y otras cribas.
+ 7       | 25.11.2021   | Javier Mejía        | Teoría algebraica de números aplicada a ecuaciones diofantinas.
+ 8       | 25.11.2021   | Lorena Beltrán      | Establecimiento de la TN como disciplina, siglo XVIII.
  
 
 # Referencias
