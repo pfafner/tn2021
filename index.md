@@ -79,7 +79,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 
 A continuación se listan algunos temas sugeridos para presentación de seminarios. [Temas-seminario.pdf](proyectos/Temas-seminario.pdf){:target="_blank"}
 
-Temas ya elegidos:
+Temas a presentar:
 
 **No.**  | **Fecha**    | **Conferencista**   |  **Tópico**                                                                    
 -------- | ------------ | --------------------| ---------------------------------------------------------- 
