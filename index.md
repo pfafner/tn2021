@@ -72,6 +72,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
   30       | 11.11.2021   | Promedios de funciones aritméticas II. Fórmula Asintótica de Dirichlet.       | Secciones 3.6 a 3.10 Apostol.
   31       | 16.11.2021   | Estimativas sobre primos. Teorema de Chebyshev. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Capítulo 4 Apostol.
   32       | 18.11.2021   | El Teorema de los Números Primos <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Apostol. 
+  33       | 23.11.2021   | Presentación de seminarios.                                                   | 
   .        |              |                                                                               | 
   
 
