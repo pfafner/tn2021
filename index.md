@@ -88,10 +88,10 @@ Temas a presentar:
  2       | 23.11.2021   | Juan Lorthiois      | Aplicaciones en Criptografía.
  3       | 23.11.2021   | Karina Valladares   | TN en el mundo antiguo: de los griegos a la Edad Media.
  4       | 23.11.2021   | José López          | Aritmética de Curvas Elípticas.
- 5       | 25.11.2021   | Estuardo Menéndez   | Números p-ádicos.
+ 5       | 25.11.2021   | Estuardo Menéndez   | Los sucesores de Weierstrass: Números p-ádicos.
  6       | 25.11.2021   | José Lucha          | La Criba de Sundaram, y otras cribas.
- 7       | 25.11.2021   | Javier Mejía        | Teoría algebraica de números aplicada a ecuaciones diofantinas.
- 8       | 25.11.2021   | Lorena Beltrán      | Establecimiento de la TN como disciplina, siglo XVIII.
+ 7       | 25.11.2021   | Javier Mejía        | Cuaternios y el Teorema de Lagrange.
+ 8       | 25.11.2021   | Lorena Beltrán      | Los tres mosqueteros al servicio de su majestad.
  
 
 # Referencias
