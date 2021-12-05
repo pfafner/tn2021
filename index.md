@@ -84,7 +84,7 @@ Temas a presentar:
 
 **No.**  | **Fecha**    | **Conferencista**   |  **Tópico**                                                                    
 -------- | ------------ | --------------------| ---------------------------------------------------------- 
- 1       | 23.11.2021   | Leonel Contreras    | El problema número 10 de Hilbert.
+ 1       | 23.11.2021   | Leonel Contreras    | El problema número 10 de Hilbert. <br/> [Presentación.pdf](){:target="_blank"}
  2       | 23.11.2021   | Juan Lorthiois      | Aplicaciones en Criptografía.
  3       | 23.11.2021   | Karina Valladares   | TN en el mundo antiguo: de los griegos a la Edad Media.
  4       | 23.11.2021   | José López          | Aritmética de Curvas Elípticas.
