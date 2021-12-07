@@ -86,7 +86,7 @@ Temas a presentar:
 -------- | ------------ | --------------------| ---------------------------------------------------------- 
  1       | 23.11.2021   | Leonel Contreras    | El problema número 10 de Hilbert. <br/> [Presentación.pdf](){:target="_blank"}
  2       | 23.11.2021   | Juan Lorthiois      | Aplicaciones en Criptografía. <br/> [Presentación.pdf](){:target="_blank"}
- 3       | 23.11.2021   | Karina Valladares   | TN en el mundo antiguo: de los griegos a la Edad Media.
+ 3       | 23.11.2021   | Karina Valladares   | TN en el mundo antiguo: de los griegos a la Edad Media. <br/> [Presentación.pdf](){:target="_blank"}
  4       | 23.11.2021   | José López          | Aritmética de Curvas Elípticas.
  5       | 25.11.2021   | Estuardo Menéndez   | Los sucesores de Weierstrass: Números p-ádicos.
  6       | 25.11.2021   | José Lucha          | La Criba de Sundaram, y otras cribas.
