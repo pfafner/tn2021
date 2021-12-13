@@ -27,7 +27,7 @@ Se recomienda que los estudiantes antes del curso estén habituados con los tema
 ### Office Hours
 <div id='id-office'/>
 
-* Viernes, de 18:00 a 20:00.
+* Viernes, de 18:00 a 20:00
 
 
 # Material del curso
