@@ -90,7 +90,7 @@ Temas a presentar:
  4       | 23.11.2021   | José López          | Aritmética de Curvas Elípticas. <br/> [Presentación.pdf](){:target="_blank"}
  5       | 25.11.2021   | Estuardo Menéndez   | Los aprendices de Weierstrass: Números p-ádicos. <br/> [Presentación.pdf](proyectos/Números_p-ádicos_Los_aprendices_de_Weierstrass.pdf){:target="_blank"}
  6       | 25.11.2021   | José Lucha          | La Criba de Sundaram, y otras cribas. <br/> [Presentación.pdf](){:target="_blank"}
- 7       | 25.11.2021   | Javier Mejía        | Cuaternios y el Teorema de Lagrange. <br/> [Presentación.pdf](){:target="_blank"}
+ 7       | 25.11.2021   | Javier Mejía        | Aplicaciones de la Teoría Algebraica de Números. <br/> [Presentación.pdf](proyectos/Teoría_Algebraica_de_Números.pdf){:target="_blank"}
  8       | 25.11.2021   | Lorena Beltrán      | Los tres mosqueteros al servicio de su majestad. <br/> [Presentación.pdf](proyectos/Los_tres_mosqueteros_al_servicio_de_su_majestad.pdf){:target="_blank"}
  
 
